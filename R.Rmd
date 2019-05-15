@@ -1,0 +1,43 @@
+***R (programming language)***
+
+
+*calculator*
+```{r}
+5  +  49 
+3  *  5 
+3  -  8 
+12 / 4 
+```
+
+*the sequence of integers*
+```{r}
+options(width=20)#寬度
+1:20
+```
+
+*mean*
+```{r}
+x=10:31
+mean(x)
+```
+
+*variance*
+```{r}
+x=10:31
+var(x)
+```
+
+*combine*
+```{r}
+x=c(0,10,20)
+x
+```
+
+*concatenate*
+```{r}
+x=c(0,10,20)
+number10to20=10:20
+c(number10to20,x)
+```
+
+**
