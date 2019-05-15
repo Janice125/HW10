@@ -40,4 +40,4 @@ number10to20=10:20
 c(number10to20,x)
 ```
 
-**
+*extracting elements from vectors*
